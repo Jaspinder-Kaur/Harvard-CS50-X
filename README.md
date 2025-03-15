@@ -8,7 +8,25 @@
 - [Notes](https://cs50.harvard.edu/x/2025/notes/0/)
 - [Starting from Scratch](https://cs50.harvard.edu/x/2025/psets/0/scratch/)
 
-  
+ ### [Week 1](/Week%200/) - 
+
+ ### [Week 2](/Week%200/) - 
+
+ ### [Week 3](/Week%200/) - 
+
+ ### [Week 4](/Week%200/) - 
+ 
+ ### [Week 5](/Week%200/) - 
+
+ ### [Week 6](/Week%200/) - 
+
+ ### [Week 7](/Week%200/) - 
+
+ ### [Week 8](/Week%200/) - 
+ 
+ ### [Week 9](/Week%200/) - 
+ 
+ ### [Week 10](/Week%200/) - 
 <!---- [Indoor Voices](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
 - [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/)
 - [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/)
