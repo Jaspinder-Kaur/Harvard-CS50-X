@@ -4,13 +4,18 @@
 <img src="https://github.com/user-attachments/assets/03e0b819-8fb1-4248-9427-0a7c6d12c5d7" align="center" alt="Banner" width="1000" height="300">
 
 ## Table Of Contents
+
 ### [Week 0](/Week%200/) - [Scratch](https://cs50.harvard.edu/x/2025/weeks/0/)
 - [Notes](https://cs50.harvard.edu/x/2025/notes/0/)
 - [Starting from Scratch](https://cs50.harvard.edu/x/2025/psets/0/scratch/)
 
- ### [Week 1](/Week%200/) - 
+ ### [Week 1](/Week%200/) - [C](https://cs50.harvard.edu/x/2025/weeks/1/)
+ - [Notes](https://cs50.harvard.edu/x/2025/notes/1/)
+ - [Problem Set 1](https://cs50.harvard.edu/x/2025/psets/1/)
 
- ### [Week 2](/Week%200/) - 
+ ### [Week 2](/Week%200/) - [Arrays](https://cs50.harvard.edu/x/2025/weeks/2/)
+ - [Notes](https://cs50.harvard.edu/x/2025/notes/2/)
+ - [Problem Set 2](https://cs50.harvard.edu/x/2025/psets/2/)
 
  ### [Week 3](/Week%200/) - 
 
